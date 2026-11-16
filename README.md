@@ -29,8 +29,8 @@ Examples: [a12s-cookbook](https://github.com/coltonkirsten/a12s-cookbook)
 
 ## Stack
 
-**AI/agents:** Claude Agent SDK · MCP · agent orchestration · RAG · Bedrock · Azure OpenAI
-**Languages:** TypeScript · Python · Swift
+**AI/agents:** Claude Agent SDK · MCP · agent orchestration · RAG · Bedrock · Azure OpenAI  
+**Languages:** TypeScript · Python · Swift  
 **Infra:** Docker · AWS Lambda · DynamoDB · Kubernetes
 
 I've been chasing human/AI interaction since I built a JARVIS in 8th grade.
