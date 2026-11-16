@@ -2,9 +2,9 @@
 
 **AI engineer** building agent infrastructure and the products on top of it.
 
-By day I ship production agent systems: an internal agentic platform serving 1,500+ users at an F500-scale enterprise. By night I build tools for running autonomous agents.
+Previously I shipped production agent systems at an F500-scale enterprise, including an internal agentic platform serving 1,500+ users. Now I build tools for running autonomous agents.
 
-🌐 [coltonkirsten.com](https://coltonkirsten.com) · 💼 [LinkedIn](https://linkedin.com/in/coltonkirsten) · 🐦 [x.com/colton_kirsten](https://x.com/colton_kirsten)
+💼 [LinkedIn](https://linkedin.com/in/coltonkirsten) · 🐦 [x.com/colton_kirsten](https://x.com/colton_kirsten)
 
 ---
 
